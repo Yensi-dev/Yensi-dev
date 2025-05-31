@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Yensi David López Díaz
+# ¡Hola! Soy Yensi David López Díaz
 
 🎓 Técnico en Desarrollo de Aplicaciones Multiplataforma  
 🛠️ Desarrollador Backend | Apasionado por soluciones escalables  
