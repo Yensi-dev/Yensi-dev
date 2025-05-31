@@ -4,7 +4,7 @@
 🛠️ Desarrollador Backend | Apasionado por soluciones escalables  
 📍 Santo Domingo Este, República Dominicana
 
-Soy un desarrollador multiplataforma con conocimientos en PHP, JavaScript, bases de datos relacionales y NoSQL. Me destaco por mi adaptabilidad, atención al detalle y capacidad para trabajar en equipo, incluso bajo presión. Actualmente continúo mi formación y participo en proyectos reales mientras aprendo nuevas tecnologías para crecer como profesional del desarrollo de software.
+Soy un desarrollador multiplataforma con conocimientos en diversos lenguajes de programación, bases de datos relacionales y NoSQL. Me destaco por mi adaptabilidad, atención al detalle y capacidad para trabajar en equipo, incluso bajo presión. Actualmente continúo mi formación y participo en proyectos reales mientras aprendo nuevas tecnologías para crecer como profesional del desarrollo de software.
 
 ---
 
@@ -28,6 +28,14 @@ Soy un desarrollador multiplataforma con conocimientos en PHP, JavaScript, bases
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 🌐 Idiomas
+
+- **Español**: Nativo  
+- **Inglés**: Básico  
+- **Portugués**: Básico
 
 ---
 
@@ -75,4 +83,3 @@ Soy un desarrollador multiplataforma con conocimientos en PHP, JavaScript, bases
 
 <!-- Si deseas mostrar estadísticas de GitHub, descomenta la línea siguiente -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLeon12&show_icons=true&theme=radical) -->
-
