@@ -69,7 +69,7 @@ Soy un desarrollador multiplataforma con conocimientos en PHP, JavaScript, bases
 
 - ✉️ Correo: lopezyensi654@gmail.com  
 - 📍 Ubicación: Santo Domingo Este, R.D.  
-- 🔗 GitHub: [github.com/TheLeon12](https://github.com/TheLeon12)
+- 🔗 GitHub: [github.com/Yen-si845a](https://github.com/Yen-si845a)
 
 ---
 
