@@ -11,12 +11,12 @@ Soy un desarrollador multiplataforma con conocimientos en diversos lenguajes de 
 ## 🧠 Tecnologías y herramientas
 
 **Lenguajes de programación**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python (Básico)](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C# (Básico)](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)
-![ASP.NET (Básico)](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
+![.NET (Básico)](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
 
 **Bases de datos**  
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
