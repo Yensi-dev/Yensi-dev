@@ -75,7 +75,7 @@ Soy un desarrollador multiplataforma con conocimientos en diversos lenguajes de 
 
 ## 📫 Contacto
 
-- ✉️ Correo: lopezyensi654@gmail.com  
+- ✉️ Correo: yensidavidlopezd@gmail.com  
 - 📍 Ubicación: Santo Domingo Este, R.D.  
 - 🔗 GitHub: [github.com/Yensi-dev](https://github.com/Yensi-dev)
 
