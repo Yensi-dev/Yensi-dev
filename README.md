@@ -1,9 +1,8 @@
 # ¡Hola! Soy Yensi David López Díaz
 
 🎓 Técnico en Desarrollo de Aplicaciones Multiplataforma  
-🛠️ Desarrollador Backend | Apasionado por soluciones escalables y eficientes  
+🛠️ Desarrollador Backend | Apasionado por soluciones escalables  
 📍 Santo Domingo Este, República Dominicana  
-📫 yensidavidlopezd@gmail.com  
 ---
 
 ## 🧑‍💻 Perfil Profesional
