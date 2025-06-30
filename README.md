@@ -89,11 +89,7 @@ Desarrollador de aplicaciones multiplataforma con conocimientos en diversos leng
 ## 📫 Contacto
 
 📍 Santo Domingo Este, República Dominicana  
-📧 yensidavidlopezd@gmail.com  
 📞 809-493-7787  
-🔗 GitHub: [github.com/Yensi-dev](https://github.com/Yensi-dev)  
-🌐 Portafolio web: [yensi-dev.github.io/portafolio-web](https://yensi-dev.github.io/portafolio-web)  
-💼 LinkedIn: [linkedin.com/in/yensi-david-lópez-díaz-b9ab03346](https://www.linkedin.com/in/yensi-david-l%C3%B3pez-d%C3%ADaz-b9ab03346/)
 
 ---
 
