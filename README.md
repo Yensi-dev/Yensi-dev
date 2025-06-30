@@ -1,68 +1,82 @@
 # ¡Hola! Soy Yensi David López Díaz
 
 🎓 Técnico en Desarrollo de Aplicaciones Multiplataforma  
-🛠️ Desarrollador Backend | Apasionado por soluciones escalables  
-📍 Santo Domingo Este, República Dominicana
+🛠️ Desarrollador Backend | Apasionado por soluciones escalables y eficientes  
+📍 Santo Domingo Este, República Dominicana  
+📫 yensidavidlopezd@gmail.com  
+---
 
-Soy un desarrollador multiplataforma con conocimientos en diversos lenguajes de programación, bases de datos relacionales y NoSQL. Me destaco por mi adaptabilidad, atención al detalle y capacidad para trabajar en equipo, incluso bajo presión. Actualmente continúo mi formación y participo en proyectos reales mientras aprendo nuevas tecnologías para crecer como profesional del desarrollo de software.
+## 🧑‍💻 Perfil Profesional
+
+Desarrollador de aplicaciones multiplataforma con conocimientos en diversos lenguajes de programación y experiencia en bases de datos relacionales y NoSQL. Apasionado por el desarrollo de soluciones eficientes, escalables y bien estructuradas. Me caracterizo por una alta adaptabilidad, atención al detalle y capacidad para trabajar en equipo en entornos exigentes. Comprometido con el aprendizaje continuo y la incorporación de nuevas tecnologías.
 
 ---
 
-## 🧠 Tecnologías y herramientas
+## 💼 Experiencia Profesional
+
+### 🏢 Desarrollador Backend – CNSWARE SRL *(Práctica profesional)*  
+📅 Mayo 2025 – Actualidad  
+- Desarrollo backend con PHP y MySQL para sistema interno.  
+- Diseño de estructuras de base de datos relacionales.  
+- Implementación de interfaces dinámicas con HTML, CSS y JavaScript.  
+
+### 🏢 Desarrollador Backend – SUPLITECMO SRL *(Práctica profesional)*  
+📅 Septiembre 2024 – Abril 2025  
+- Desarrollo backend con ASP.NET y SQL Server.  
+- Pruebas, mantenimiento y mejora de funcionalidades existentes.  
+- Resolución de errores y soporte general al sistema.
+
+---
+
+## 🎓 Formación Académica
+
+### 🎓 Pontificia Universidad Católica Madre y Maestra (PUCMM)  
+📚 Técnico en Desarrollo de Aplicaciones Multiplataforma  
+📅 2023 – Actualidad (6to cuatrimestre)
+
+### 🎓 Liceo Técnico Manuel del Cabral  
+📚 Técnico en Desarrollo y Administración de Aplicaciones Informáticas  
+🎓 Graduado en 2023
+
+---
+
+## 🛠️ Habilidades Técnicas
 
 **Lenguajes de programación**  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python (Básico)](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C# (Básico)](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)
-![.NET (Básico)](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
 
 **Bases de datos**  
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-**Herramientas**  
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+**Herramientas de desarrollo**  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+
+**APIs y servicios**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-6DB33F?logo=apachespark&logoColor=white)  
 
 ---
 
-## 🌐 Idiomas
+## 🌍 Idiomas
 
-- **Español**: Nativo  
-- **Inglés**: Básico  
-- **Portugués**: Básico
-
----
-
-## 💼 Experiencia
-
-**Desarrollador Backend | SUPLITECMO SRL**  
-📅 Septiembre 2024 – Abril 2025  
-- Participación en proyecto con ASP.NET  
-- Administración de bases de datos SQL Server  
-- Corrección de errores en sistemas en desarrollo  
-- Apoyo en tareas de frontend y backend  
+- **Español:** Nativo  
+- **Inglés:** Básico  
+- **Portugués:** Básico
 
 ---
 
-## 📘 Formación académica
-
-**Pontificia Universidad Católica Madre y Maestra**  
-📚 Técnico en Desarrollo de Aplicaciones Multiplataforma (6to cuatrimestre)  
-📅 2023 – Presente  
-
-**Liceo Técnico Manuel del Cabral**  
-📚 Técnico en Desarrollo y Administración de Aplicaciones Informáticas  
-🎓 Graduado en 2023  
-
----
-
-## 🧩 Habilidades blandas
+## 🤝 Habilidades Blandas
 
 - Comunicación efectiva  
 - Trabajo en equipo  
@@ -74,11 +88,15 @@ Soy un desarrollador multiplataforma con conocimientos en diversos lenguajes de 
 ---
 
 ## 📫 Contacto
- 
-- 📍 Ubicación: Santo Domingo Este, R.D.  
-- 🔗 GitHub: [github.com/Yensi-dev](https://github.com/Yensi-dev)
+
+📍 Santo Domingo Este, República Dominicana  
+📧 yensidavidlopezd@gmail.com  
+📞 809-493-7787  
+🔗 GitHub: [github.com/Yensi-dev](https://github.com/Yensi-dev)  
+🌐 Portafolio web: [yensi-dev.github.io/portafolio-web](https://yensi-dev.github.io/portafolio-web)  
+💼 LinkedIn: [linkedin.com/in/yensi-david-lópez-díaz-b9ab03346](https://www.linkedin.com/in/yensi-david-l%C3%B3pez-d%C3%ADaz-b9ab03346/)
 
 ---
 
 <!-- Si deseas mostrar estadísticas de GitHub, descomenta la línea siguiente -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLeon12&show_icons=true&theme=radical) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yensi-dev&show_icons=true&theme=radical) -->
