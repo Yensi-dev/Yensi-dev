@@ -14,7 +14,7 @@ Desarrollador de aplicaciones multiplataforma con conocimientos en diversos leng
 ## 💼 Experiencia Profesional
 
 ### 🏢 Desarrollador – CNSWARE SRL *(Práctica profesional)*  
-📅 Mayo 2025 – Actualidad  
+📅 Mayo 2025 – julio 2025
 - Desarrollo backend con PHP y MySQL para sistema interno.  
 - Diseño de estructuras de base de datos relacionales.  
 - Implementación de interfaces dinámicas con HTML, CSS y JavaScript.  
