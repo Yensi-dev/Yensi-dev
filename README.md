@@ -1,7 +1,7 @@
 # ¡Hola! Soy Yensi David López Díaz
 
 🎓 Técnico en Desarrollo de Aplicaciones Multiplataforma  
-🛠️ Desarrollador de Aplicaciones Multiplataforma 
+🛠️ Apasionado por el desarrollo de software 
 
 ---
 
